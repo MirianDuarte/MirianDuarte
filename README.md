@@ -1,6 +1,5 @@
 <h2> Olá! Eu sou a Mirian Duarte 🖥️🎮🍀🦋
-
-
+#
 <div>
 <a href="https://github.com/MirianDuarte">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirianDuarte&show_icons=true&theme=dark">
