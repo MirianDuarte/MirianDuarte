@@ -1,26 +1,26 @@
-# Olá! Eu sou a Mirian Duarte
+<h2> Olá! Eu sou a Mirian Duarte 🖥️🎮🍀🦋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/duxrte_/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirianduarte/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spoti.fi/3O1x0EH)
-<br/>
+#
+<div>
+<a href="https://github.com/MirianDuarte">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirianDuarte&show_icons=true&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirianDuarte&layout=compact&theme=dark"
 
 #
 
-![Mirian Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=MirianDuarte&show_icons=true&theme=dark) <br/>
+<div align="center" style="display: inline_block"><br>
+ <img align="center" alt="nat-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ <img align="center" alt="nat-springboot" height="30" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="nat-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nat-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="nat-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div><br>
 
 #
 
-[![MirianDuarte](https://github-readme-stats.vercel.app/api/top-langs/?username=MirianDuarte&layout=compact&theme=dark)](https://github.com/MirianDuarte) </br>
+### Entre em contato comigo:
 
-### Tecnologias que estou aprendendo
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" all="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" all="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="center" all="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div><br/>
-
-### 💻 Generation Brasil - Desenvolvedora Web Java
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirianduarte/) [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
