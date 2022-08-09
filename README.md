@@ -1,11 +1,15 @@
-## Olá! Eu sou a Mirian Duarte 🖥️🎮🍀🦋
+<div align="center">
+<h1>Olá! Eu sou a Mirian Duarte 🖥️🎮🍀🦋</h1>
+</div>
 
 <div>
 <a href="https://github.com/MirianDuarte">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirianDuarte&show_icons=true&theme=dark">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirianDuarte&layout=compact&theme=dark"
 
+
 #
+
 
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="nat-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -19,6 +23,9 @@
   <img align="center" alt="nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+
+  #
+
 <div align="center" style="display: inline_block">
 <h2> Entre em contato comigo: </h2>
 
