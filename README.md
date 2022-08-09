@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/MirianDuarte">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirianDuarte&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirianDuarte&layout=compact&theme=dark"
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirianDuarte&layout=compact&theme=dark"
 
 #
 
@@ -26,5 +26,3 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirianduarte/) [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
 </div>
-
-![Snake animation](https://github.com/MirianDuarte/MirianDuarte/blob/output/github-contribution-grid-snake.svg)
